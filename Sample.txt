@@ -1,0 +1,10 @@
+Git Hub
+Open Git Hub Bash
+Then check user name pswd using code
+git config --list
+
+git init
+this will initialise the repo and we get .git file created
+
+git status 
+status of current files
