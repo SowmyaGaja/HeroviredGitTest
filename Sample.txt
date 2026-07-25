@@ -21,6 +21,16 @@ git status
 use the comment while committing to indicate what changes are done.
 
 git commit -m 
-g
-7# Push
+
+7 collaborators - used for giving access to the git hub
+
+8 cd space .. - > moves outside folder
+cd space foldername enters the folder
+
+9 Configuration to connect with web git.
+git remote add origin <your repository url>
+
+10 view current setting to verify
+git remote -v
+
 
