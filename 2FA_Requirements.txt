@@ -3,3 +3,7 @@ git switch -c features/2fa
 
 OTP
 Watsapp
+
+To push the branch
+
+$ git push -u origin features/2fa
