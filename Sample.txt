@@ -1,10 +1,26 @@
 Git Hub
-Open Git Hub Bash
-Then check user name pswd using code
+1 # Open Git Hub Bash
+
+2# Then check user name pswd using code
 git config --list
 
-git init
+3# git init
 this will initialise the repo and we get .git file created
 
-git status 
+4# git status 
 status of current files
+red files indicate commit is not done.
+
+5# Move the changes to Staging area - Modification
+git add Sample.txt
+
+to check if file is added
+git status
+
+6# We commit it online or staging area.
+use the comment while committing to indicate what changes are done.
+
+git commit -m 
+g
+7# Push
+
