@@ -55,9 +55,22 @@ git reset--hard<commit id>
 
 destroys all the other commits after that.
 
-git branch # gives all the branch details
+15 git branch # gives all the branch details
 
-dir # tells all the files in that branch
+16 dir # tells all the files in that branch
 
-git merge <branch-Name> # Go to the branch in which you want to merge and then merge it.
+17 git merge <branch-Name> # Go to the branch in which you want to merge and then merge it.
+
+18 Rebase
+
+Po to the feature-xyz
+git switch feature-xyz
+
+git fetch origin 
+git fetch origin main
+git rebase main
+
+19 git log oneline # gives the short version of commit id.
+
+20 clear
 
