@@ -38,3 +38,9 @@ git push --set-upstream origin main
 
 
 my url - https://github.com/SowmyaGaja/HeroviredGitTest.git
+
+11 Main/Master Branch
+
+12. To check log
+git log
+
