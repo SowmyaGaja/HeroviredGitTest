@@ -1,0 +1,8 @@
+Rebase
+
+Po to the feature-xyz
+git switch feature-xyz
+
+git fetch origin 
+git fetch origin main
+git rebase main
