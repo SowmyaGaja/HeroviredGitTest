@@ -55,4 +55,9 @@ git reset--hard<commit id>
 
 destroys all the other commits after that.
 
+git branch # gives all the branch details
+
+dir # tells all the files in that branch
+
+git merge <branch-Name> # Go to the branch in which you want to merge and then merge it.
 
