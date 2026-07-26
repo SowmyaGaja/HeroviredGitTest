@@ -44,3 +44,15 @@ my url - https://github.com/SowmyaGaja/HeroviredGitTest.git
 12. To check log
 git log
 
+13. Revert the previous commit
+git revert "get the commit if from the git log and enter it.
+
+Press ESC(move out to edit mode)
+:wq - Quit
+
+14.Reset to previous commit when you made a big mistake.
+git reset--hard<commit id>
+
+destroys all the other commits after that.
+
+
